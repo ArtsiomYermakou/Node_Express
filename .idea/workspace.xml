@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8be86e1a-13a3-48e4-b599-d526488d4f9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/views/about.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/layouts/main.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/partials/footer.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/partials/head.hbs" afterDir="false" />
+    <list default="true" id="8be86e1a-13a3-48e4-b599-d526488d4f9c" name="Default Changelist" comment="Add normalize css">
+      <change afterPath="$PROJECT_DIR$/public/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/add.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/courses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/add.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/courses.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/partials/navbar.hbs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/index.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/layouts/main.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/layouts/main.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/partials/head.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/partials/head.hbs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,11 +50,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608710061130</updated>
-      <workItem from="1608710062414" duration="2829000" />
+      <workItem from="1608710062414" duration="6592000" />
     </task>
+    <task id="LOCAL-00001" summary="Add normalize css">
+      <created>1608713228604</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608713228604</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add normalize css" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add normalize css" />
   </component>
 </project>
