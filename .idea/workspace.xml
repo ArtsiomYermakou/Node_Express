@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8be86e1a-13a3-48e4-b599-d526488d4f9c" name="Default Changelist" comment="refactor all files" />
+    <list default="true" id="8be86e1a-13a3-48e4-b599-d526488d4f9c" name="Default Changelist" comment="refactor (its working)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +44,7 @@
       <updated>1608710061130</updated>
       <workItem from="1608710062414" duration="23064000" />
       <workItem from="1608789528599" duration="7806000" />
+      <workItem from="1608810352614" duration="1737000" />
     </task>
     <task id="LOCAL-00001" summary="Add normalize css">
       <created>1608713228604</created>
@@ -75,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608810196279</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="refactor (its working)">
+      <created>1608810435145</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608810435145</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +104,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add normalize css" />
@@ -98,6 +112,7 @@
     <MESSAGE value="Add dynamic pages" />
     <MESSAGE value="Add dynamic basket" />
     <MESSAGE value="refactor all files" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor all files" />
+    <MESSAGE value="refactor (its working)" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor (its working)" />
   </component>
 </project>
