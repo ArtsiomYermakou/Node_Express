@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8be86e1a-13a3-48e4-b599-d526488d4f9c" name="Default Changelist" comment="Add dynamic basket">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/card.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/card.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/card.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/card.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/card.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/views/card.hbs" afterDir="false" />
-    </list>
+    <list default="true" id="8be86e1a-13a3-48e4-b599-d526488d4f9c" name="Default Changelist" comment="refactor all files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608710061130</updated>
       <workItem from="1608710062414" duration="23064000" />
-      <workItem from="1608789528599" duration="7484000" />
+      <workItem from="1608789528599" duration="7806000" />
     </task>
     <task id="LOCAL-00001" summary="Add normalize css">
       <created>1608713228604</created>
@@ -74,17 +68,36 @@
       <option name="project" value="LOCAL" />
       <updated>1608735704756</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="refactor all files">
+      <created>1608810196279</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608810196279</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add normalize css" />
     <MESSAGE value="Add routes" />
     <MESSAGE value="Add dynamic pages" />
     <MESSAGE value="Add dynamic basket" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add dynamic basket" />
+    <MESSAGE value="refactor all files" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor all files" />
   </component>
 </project>
