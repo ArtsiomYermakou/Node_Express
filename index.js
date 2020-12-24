@@ -23,14 +23,14 @@ app.use(express.urlencoded({extended: true}))
 
 app.use('/', homeRoutes)
 app.use('/add', addRoutes)
-app.use('/courses', coursesRcoutes)
+app.use('/courses', coursesRoutes)
 app.use('/card', cardRoutes)
 
 const PORT = process.env.PORT || 3000
 
 async function start() {
     try {
-        const url = `mongodb+srv://ermakov:ermakov@cluster0.mkmkt.mongodb.net/<dbname>?retryWrites=true&w=majority`
+        const url = `mongodb+srv://ermakov:ermakov@cluster0.mkmkt.mongodb.net/ErmakovDataBase?retryWrites=true&w=majority`
 
         await mongoose.connect(url, {useNewUrlParser: true})
 
